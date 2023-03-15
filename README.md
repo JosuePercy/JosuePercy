@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="coding" width="850" height="4000" src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif"/>
+  <img alt="coding" width="850" height="400" src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif"/>
 </p>
 <h1 align="center">Hi 👋, I'm Josue Percy</h1>
 <h3 align="center">A passionate Full Stack developer from Peru</h3>
